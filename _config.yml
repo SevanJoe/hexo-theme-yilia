@@ -6,12 +6,12 @@ menu:
 
 # SubNav
 subnav:
-  github: "#"
-  weibo: "#"
-  rss: "#"
-  zhihu: "#"
+  github: "https://github.com/SevanJoe"
+  #weibo: "#"
+  zhihu: "https://www.zhihu.com/people/sevanjoe"
   #douban: "#"
-  #mail: "#"
+  mail: "mailto:sevancr7@gmail.com"
+  rss: "/atom.xml"
   #facebook: "#"
   #google: "#"
   #twitter: "#"
@@ -35,7 +35,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar:
+avatar: "https://avatars3.githubusercontent.com/u/798420?v=3&amp;s=400"
 #是否开启分享
 share_jia: true
 share_addthis: false
